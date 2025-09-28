@@ -1,6 +1,6 @@
 console.log('Hola Mundo actualizado3');
 
-let limit = 100;
+export let limit = 100;
 
 for (let i = 1 ; i <= limit; i++) {
 
